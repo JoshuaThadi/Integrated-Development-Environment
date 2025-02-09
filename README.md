@@ -11,8 +11,18 @@
      <img src="https://img.shields.io/badge/GitHub-NeoVim.Inc-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%2300AEEF" alt="GitHub NeoVim.Inc Badge"></a>
   
  <a href="https://www.lazyvim.org/" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-LazyVim-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%236E8CA7" alt="GitHub LazyVim Badge">
+     <img src="https://img.shields.io/badge/GitHub-LazyVim-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%236E8CA7" alt="GitHub LazyVim Badge"></a>
+
+<a href="https://nvchad.com/" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-NvChad-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23CF4E88" alt="GitHub NvChad Badge"></a>
+
+<a href="https://neovim.io/doc/user/map.html" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-MapDoc-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%2389D973" alt="GitHub MapDoc Badge"></a>
+
+<a href="https://dotfyle.com/neovim/colorscheme/top" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-ColorTheme-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%23B48EAD" alt="GitHub ColorTheme Badge">
    </a>
+     
 </div>
 
 
