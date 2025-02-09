@@ -20,4 +20,4 @@
 <p align="center">This configuration is open-source and free to use. Feel free to modify it to suit your workflow!</p>
 
 
-<p align="center" ><img height="300px" src="https://i.sstatic.net/1EaUT.png" alt="Neovim Setup"></p>
+<p align="center" ><img height="300px" width="800px" src="https://i.sstatic.net/1EaUT.png" alt="Neovim Setup"></p>
