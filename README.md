@@ -8,7 +8,10 @@
 
 <div align="center" class="badge">
    <a href="https://soft-saturn-e55.notion.site/Neo-vim-10546efbf3d58032a13fcf1666c42547" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-NeoVim.Inc-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%2300AEEF" alt="GitHub NeoVim.Inc Badge">
+     <img src="https://img.shields.io/badge/GitHub-NeoVim.Inc-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%2300AEEF" alt="GitHub NeoVim.Inc Badge"></a>
+  
+ <a href="https://www.lazyvim.org/" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-LazyVim-%237E8185?style=for-the-badge&logo=github&logoColor=white&labelColor=%237E8185&color=%236E8CA7" alt="GitHub LazyVim Badge">
    </a>
 </div>
 
