@@ -4,8 +4,9 @@
 
 <h3 align="center">Features</h3>
 <p align="center">
-  Fast and minimal Neovim setup. Plugin management using Lazy.nvim or Packer.nvim. LSP support for multiple programming languages.<br>
-  Autocomplete & snippets with nvim-cmp. Syntax highlighting via Treesitter. File explorer using NvimTree. Statusline with Lualine.<br>
+  Fast and minimal Neovim setup. Plugin management using Lazy.nvim or Packer.nvim. <br>
+  LSP support for multiple programming languages. Autocomplete & snippets with nvim-cmp.<br> 
+  Syntax highlighting via Treesitter. File explorer using NvimTree. Statusline with Lualine.<br>
   Git integration via Fugitive or Gitsigns. Telescope for fuzzy finding and search. Key mappings for efficiency.
 </p>
 
