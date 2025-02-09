@@ -1,3 +1,4 @@
+<img src="https://github.com/JoshuaThadi/NeoVim/blob/main/neovim_transparent.png" alt="Neovim ASCII Art">
 
 
 <h1 align="center">Neovim Setup ✨</h1>
