@@ -16,7 +16,8 @@
   Git integration via Fugitive or Gitsigns. Telescope for fuzzy finding and search. Key mappings for efficiency.
 </p>
 
-<p align="center"><img src="https://github.com/JoshuaThadi/NeoVim/blob/main/Screenshot%202025-02-09%20112016.png" alt="Neovim Setup"></p>
-
 <h3 align="center">License ⚖️</h3>
 <p align="center">This configuration is open-source and free to use. Feel free to modify it to suit your workflow!</p>
+
+
+<p align="center"><img src="https://github.com/JoshuaThadi/NeoVim/blob/main/Screenshot%202025-02-09%20112016.png" alt="Neovim Setup"></p>
