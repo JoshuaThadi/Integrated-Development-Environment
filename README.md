@@ -58,3 +58,10 @@
 
 
 <p align="center" ><img width="800px" src="https://i.sstatic.net/1EaUT.png" alt="Neovim Setup"></p>
+
+<div align="center">
+  
+---
+
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+</div>
