@@ -291,7 +291,17 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 <h1 align="center"> 🛠 WebStorm Professional Setup</h1>
 
-Welcome to my WebStorm setup, tailored for high-performance JavaScript/TypeScript, Node.js, and full-stack development. This configuration leverages JetBrains’ powerful IDE features while improving speed, UI, and developer workflow.
+<div align="center">
+   <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+  <img src="https://img.shields.io/badge/WebStorm-Official%20Site-4D5054?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm Official Site"></a>
+<a href="https://www.jetbrains.com/" target="_blank">
+  <img src="https://img.shields.io/badge/JetBrains-Official%20Site-4D5054?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Official Site"></a>
+<a href="https://github.com/jetbrains" target="_blank">
+  <img src="https://img.shields.io/badge/JetBrains-GitHub%20Org-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="JetBrains GitHub Organization"></a>
+</div>
+
+
+WebStorm by JetBrains is a powerful IDE tailored for modern JavaScript development. It offers intelligent code completion, on-the-fly error detection, refactoring tools, and seamless integration with version control systems, testing frameworks, build tools, and popular web technologies.
 
 <h3> 🚀 Why WebStorm?</h3>
 
@@ -302,10 +312,56 @@ WebStorm is my go-to IDE when I need:
 - Built-in tools for version control, debugging, and testing
 - A stable and powerful editor with minimal setup overhead
 
+<h3>🧩 Plugin/Extension Recommendations for WebStorm</h3>
+<div align="left">
+1. 🔧 GitToolbox
+Enhances Git integration in WebStorm with features like inline blame, status indicators, and behind/ahead info — making version control more intuitive and powerful.<br>
+2. 🎨 Material Theme UI
+Brings beautiful Material Design themes to WebStorm, including custom icons, stylish UI, and polished appearance for improved visual consistency.<br>
+3. 🌈 Rainbow Brackets
+Helps improve code readability by colorizing matching brackets, parentheses, and braces — especially useful for nested code.<br>
+4. 🔠 String Manipulation
+Adds powerful string transformation tools (camelCase, snake_case, etc.), sorting, escaping, and encoding features.<br>
+5. 📁 .env Files Support
+Adds syntax highlighting and better handling of .env files — essential for managing environment variables in full-stack apps.<br>
 
-<h3 align="center">License ⚖️</h3>
-<p align="center">This configuration is open-source and free to use. Feel free to modify it to suit your workflow!</p>
-  
+<a href="https://plugins.jetbrains.com/plugin/7499-gittoolbox" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/7499/721173/icon/default.svg" alt="GitToolbox Plugin" width="200"></a>
+<a href="https://plugins.jetbrains.com/plugin/8006-material-theme-ui" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/8006/726030/icon/default.svg" alt="Material Theme UI Plugin" width="200"></a>
+<a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/10080/739688/icon/default.svg" alt="Rainbow Brackets Plugin" width="200"></a>
+<a href="https://plugins.jetbrains.com/plugin/2162-string-manipulation" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/2162/640476/icon/default.svg" alt="String Manipulation Plugin" width="200"></a>
+<a href="https://plugins.jetbrains.com/plugin/9525--env-files" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/9525/711041/icon/default.svg" alt=".env Files Plugin" width="200"></a>
+
+
+
+</div>
+
+<h3>⚡ Autocompletion & Snippets in WebStorm</h3>
+<div align="left">
+✅ Built-in IntelliSense
+WebStorm includes industry-leading autocompletion, smart code suggestions, and in-context documentation — powered by JetBrains' deep language intelligence.<br>
+🧩 Community Snippet Packs
+WebStorm supports importing snippet packs or creating your own via Live Templates:
+🔗 WebStorm Live Templates Guide<br>
+🛠️ Custom Snippet Configs
+You can create and manage project-specific or language-specific snippets in Preferences > Editor > Live Templates for rapid development.<br>
+
+<a href="https://www.jetbrains.com/help/webstorm/using-live-templates.html" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Templates-WebStorm%20Docs-DA627D?style=for-the-badge&logo=jetbrains&logoColor=white" alt="WebStorm Live Templates Documentation"></a>
+
+<div>
+   <a href="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/webstorm/Screenshot%20(12).png" target="_blank">
+  <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Integrated-Development-Environment/main/IDE/webstorm/Screenshot%20(12).png" alt="WebStorm Setup Screenshot"></a>
+</div>
+
+
+
+</div>
+
 ---
 
 ⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
