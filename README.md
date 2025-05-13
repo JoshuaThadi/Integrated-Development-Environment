@@ -345,8 +345,7 @@ Adds syntax highlighting and better handling of .env files — essential for man
 ✅ Built-in IntelliSense
 WebStorm includes industry-leading autocompletion, smart code suggestions, and in-context documentation — powered by JetBrains' deep language intelligence.<br>
 🧩 Community Snippet Packs
-WebStorm supports importing snippet packs or creating your own via Live Templates:
-🔗 WebStorm Live Templates Guide<br>
+WebStorm supports importing snippet packs or creating your own via Live Templates<br>
 🛠️ Custom Snippet Configs
 You can create and manage project-specific or language-specific snippets in Preferences > Editor > Live Templates for rapid development.<br>
 
