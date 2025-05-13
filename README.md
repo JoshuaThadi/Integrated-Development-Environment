@@ -11,6 +11,16 @@
 
 <p>Welcome to my Visual Studio Code configuration! This setup is crafted for developers who want a fast, modern, and extensible IDE that works across languages and frameworks.
 Whether you're a front-end developer, backend engineer, or full-stack enthusiast — this setup has covered.</p>
+<!-- FreeCodeCamp Badge in Nordic Navy Blue -->
+<a href="https://www.freecodecamp.org/news/best-vscode-extensions/" target="_blank">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-VSCode%20Extensions-2E3440?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp - Best VSCode Extensions"></a>
+  <!-- Microsoft VS Code Marketplace Badge in Nordic White -->
+<a href="https://marketplace.visualstudio.com/vscode" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft-VSCode%20Marketplace-D8DEE9?style=for-the-badge&logo=microsoft&logoColor=black" alt="Microsoft VS Code Marketplace"></a>
+<!-- VS Code Color Themes Badge in Nordic Gray -->
+<a href="https://vscodethemes.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VSCode-Color%20Themes-4C566A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Color Themes"></a>
+
 
 
 <h3>🔌 Tools & Extensions in VS Code</h3>
