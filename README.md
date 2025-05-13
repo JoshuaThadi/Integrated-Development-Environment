@@ -33,10 +33,10 @@
      <img src="https://img.shields.io/badge/NvChad-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%23CF4E88" alt="GitHub NvChad Badge"></a>
 
 <a href="https://neovim.io/doc/user/map.html" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-MapDoc-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%2389D973" alt="GitHub MapDoc Badge"></a>
+     <img src="https://img.shields.io/badge/MapDoc-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%2389D973" alt="GitHub MapDoc Badge"></a>
 
 <a href="https://dotfyle.com/neovim/colorscheme/top" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-ColorTheme-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%23B48EAD" alt="GitHub ColorTheme Badge">
+     <img src="https://img.shields.io/badge/ColorTheme-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%23B48EAD" alt="GitHub ColorTheme Badge">
    </a>
      
 </div>
