@@ -8,6 +8,7 @@ git clone https://github.com/chadcat7/chadVim ~/.config/nvim
 nvim
 
 /*==============================================================*/
+#mac/linux
 
 # 1. Remove any existing Neovim config, data, and cache
 rm -rf ~/.config/nvim ~/.local/share/nvim ~/.cache/nvim
