@@ -119,7 +119,7 @@ In this setup, I've curated a collection of some of the most popular and develop
 
 </div>
 
-<h3> 📁 File Icon Themes in VS Code </h3> 
+<h3> 📁 File Icon and font Themes in VS Code </h3> 
 File icon themes enhance the VS Code explorer by visually distinguishing between file types, folders, and configurations — making it easier to navigate projects at a glance.
 With the right icon theme, you not only get visual clarity, but also a more personalized and engaging developer experience. The icons can reflect modern design trends, minimalism, or a stylized aesthetic depending on your preference.
 
@@ -169,7 +169,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 <h1 align="center">🛠 Neovim Professional Setup</h1>
 
-<div align="left" class="badge">
+<div align="center" class="badge">
    <a href="https://soft-saturn-e55.notion.site/Neo-vim-10546efbf3d58032a13fcf1666c42547" target="_blank">
      <img src="https://img.shields.io/badge/Neovim.Inc-Instruction-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%2300AEEF" alt="GitHub NeoVim.Inc Badge"></a>
   
@@ -199,6 +199,71 @@ With the right icon theme, you not only get visual clarity, but also a more pers
   Syntax highlighting via Treesitter. File explorer using NvimTree. Statusline with Lualine.<br>
   Git integration via Fugitive or Gitsigns. Telescope for fuzzy finding and search. Key mappings for efficiency.
 </p>
+
+<h3 align="left">🚀 Autocompletion & Snippets</h3>
+<p>Boost your development speed with smart autocompletion and flexible snippet support in Vim/Neovim.</p>
+🔗 nvim-cmp – A powerful and extensible completion engine for Neovim written in Lua.<br>
+🔗 UltiSnips – The ultimate snippet solution for Vim.<br>
+🔗 LuaSnip – Snippet engine written in Lua, designed for Neovim and perfect for nvim-cmp integration.<br>
+
+<a href="https://github.com/hrsh7th/nvim-cmp" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-cmp%20-F56C6C?style=for-the-badge&logo=github&logoColor=white" alt="nvim-cmp GitHub Repo"/></a>
+<a href="https://github.com/SirVer/ultisnips" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-UltiSnips%20-9E9B9B?style=for-the-badge&logo=github&logoColor=white" alt="UltiSnips GitHub Repo"></a>
+<a href="https://github.com/L3MON4D3/LuaSnip" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-LuaSnip%20-F79B77?style=for-the-badge&logo=github&logoColor=white" alt="LuaSnip GitHub Repo"></a>
+
+
+
+<h3 align="left">🔍 Search & Navigation</h3>
+<p>Speed up file and content discovery across your projects with powerful fuzzy search tools.</p>
+🔗 telescope.nvim – Highly extendable fuzzy finder for Neovim.<br>
+🔗 fzf – A general-purpose command-line fuzzy finder.<br>
+🔗 ripgrep – Ultra-fast tool for searching code.<br>
+🔗 coc.nvim – Vim/Neovim extension for rich LSP and IntelliSense functionality.<br>
+<!-- Telescope.nvim GitHub Badge -->
+<a href="https://github.com/nvim-telescope/telescope.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-Telescope.nvim-CE85FF?style=for-the-badge&logo=github&logoColor=white" alt="Telescope.nvim GitHub"></a>
+<a href="https://github.com/junegunn/fzf" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-fzf_Fuzzy%20-81A1C1?style=for-the-badge&logo=github&logoColor=white" alt="fzf GitHub Repo"></a>
+<a href="https://github.com/BurntSushi/ripgrep" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-ripgrep%20-B57BE0?style=for-the-badge&logo=github&logoColor=white" alt="ripgrep GitHub Repo"></a>
+<a href="https://github.com/neoclide/coc.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-coc.nvim%20-3791E6?style=for-the-badge&logo=github&logoColor=white" alt="coc.nvim GitHub Repo"></a>
+
+
+<h3 align="left">🐞 Debugging Tools</h3>
+<p>Turn Neovim into a powerful debugging environment or configure VS Code/WebStorm for integrated debugging.</p>
+🔗 nvim-dap – Debug Adapter Protocol client implementation for Neovim.<br>
+<a href="https://github.com/mfussenegger/nvim-dap" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-nvim_dap%20-827675?style=for-the-badge&logo=github&logoColor=white" alt="nvim-dap GitHub Repo"></a>
+
+
+<h3 align="left">🌟 Recommended Neovim Plugins</h3>
+<p>Transform your Neovim into a professional IDE with these battle-tested plugins:</p>
+🔗 nvim-tree.lua – File explorer.<br>
+🔗 lualine.nvim – Status line.<br>
+🔗 bufferline.nvim – Tab/buffer line.<br>
+🔗 gitsigns.nvim – Git integration.<br>
+🔗 nvim-treesitter – Syntax highlighting and code parsing.<br>
+
+<a href="https://github.com/nvim-tree/nvim-tree.lua" target="_blank">
+  <img src="https://img.shields.io/badge/nvim--tree.lua-File%20Explorer-8FBC8F?style=for-the-badge&logo=github&logoColor=white" alt="nvim-tree.lua GitHub Repo"></a>
+<a href="https://github.com/nvim-lualine/lualine.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/lualine.nvim-Statusline-88C0D0?style=for-the-badge&logo=github&logoColor=white" alt="lualine.nvim GitHub Repo"></a>
+<a href="https://github.com/akinsho/bufferline.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/bufferline.nvim-Buffer%20Tabs-5E81AC?style=for-the-badge&logo=github&logoColor=white" alt="bufferline.nvim GitHub Repo"></a>
+<a href="https://github.com/lewis6991/gitsigns.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/gitsigns.nvim-Git%20Integration-B48EAD?style=for-the-badge&logo=github&logoColor=white" alt="gitsigns.nvim GitHub Repo"></a>
+<a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
+  <img src="https://img.shields.io/badge/nvim--treesitter-Syntax%20Parser-A3BE8C?style=for-the-badge&logo=github&logoColor=white" alt="nvim-treesitter GitHub Repo"></a>
+
+
+<div>
+   <p>
+      
+   </p>
+</div>
 
 <p align="center" ><img width="100%" src="https://i.sstatic.net/1EaUT.png" alt="Neovim Setup"></p>
 
