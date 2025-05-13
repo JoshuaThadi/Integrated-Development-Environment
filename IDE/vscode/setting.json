@@ -1,0 +1,35 @@
+{
+  // UI Appearance
+  "workbench.colorTheme": "Catppuccin Mocha",               // Choose from your list
+  "workbench.iconTheme": "material-icon-theme",             // Choose from your icon list
+
+  // Font Settings
+  "editor.fontFamily": "Fira Code, JetBrains Mono, Consolas, monospace",
+  "editor.fontLigatures": true,
+
+  // Formatting
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+
+  // File & Terminal
+  "files.autoSave": "onFocusChange",
+  "terminal.integrated.fontFamily": "Fira Code",
+
+  // Extensions
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+
+  // IntelliSense & AI Tools
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+
+  // GitLens
+  "gitlens.hovers.enabled": true,
+
+  // Path IntelliSense
+  "path-intellisense.autoSlashAfterDirectory": true
+}

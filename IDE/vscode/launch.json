@@ -1,0 +1,37 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "fira-code-material-icon-theme",
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    
+    "launch": {
+        
+
+        
+    
+
+
+
+
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 13,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80,
+    "editor.wrappingIndent": "same",
+    "editor.renderWhitespace": "boundary",
+    "editor.guides.indentation": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "python.createEnvironment.trigger": "off",
+    "python.analysis.languageServerMode": "full",
+    "python.analysis.enablePytestSupport": false,
+    "python.languageServer": "Pylance",
+    "python.defaultInterpreterPath": "C:\\Users\\Joshua\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "workbench.colorTheme": "GitHub Dark",
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "database-client.autoSync": true,
+}

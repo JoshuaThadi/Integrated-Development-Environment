@@ -1,0 +1,40 @@
+{
+  "recommendations": [
+    // Color Themes
+    "akamud.vscode-theme-onedark",             // Atom One Dark
+    "github.github-vscode-theme",              // GitHub Theme
+    "zhuangtongfa.Material-theme",             // One Dark Pro
+    "teabyii.ayu",                              // One Dark Pale (Ayu Dark may match)
+    "leveluptutorials.theme-levelup",          // Level Up Theme Official
+    "whizkydee.material-palenight-theme",      // Palenight Theme
+    "sdras.night-owl",                         // Night Owl Theme
+    "enkia.tokyo-night",                       // Tokyo Night Theme
+    "timothymclane.theme-night-wolf",          // Night Wolf Theme
+    "arcticicestudio.nord-visual-studio-code", // Nord
+    "catppuccin.catppuccin-vsc",               // Catppuccin Theme
+
+    // File Icon Themes
+    "pkief.material-icon-theme",               // Fira Code Material Icon Theme
+    "qinjia.seti-icons",                       // Seti Theme
+    "rose-pine.rose-pine-icon-theme",          // Rose Pine Icon
+    "Equinusocio.vsc-material-theme-icons",    // Minimal VS Code Icon Theme
+    "vscode-icons-team.vscode-icons",          // VSCode Icons
+
+    // Tools and Extensions
+    "ritwickdey.LiveServer",                   // Live Server
+    "ms-vscode.live-server-preview",           // Live Preview
+    "formulahendry.code-runner",               // Code Runner
+    "eamodio.gitlens",                         // GitLens
+    "github.copilot",                          // GitHub Copilot
+    "esbenp.prettier-vscode",                  // Prettier
+    "ms-vscode-remote.remote-ssh",             // Remote - SSH
+    "VisualStudioExptTeam.vscodeintellicode",  // IntelliCode
+    "manuth.restore-terminal",                 // Restore Terminal
+    "tabnine.tabnine-vscode",                  // Tabnine AI
+    "christian-kohler.path-intellisense"       // Path Intellisense
+
+     // --- Database extensions ---
+    "mongodb.mongodb-vscode",              // Official MongoDB Extension
+    "mohsen1.prettify-json"                // JSON prettifier for viewing NoSQL data
+  ]
+}
