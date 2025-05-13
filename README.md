@@ -11,16 +11,22 @@
 
 <p>Welcome to my Visual Studio Code configuration! This setup is crafted for developers who want a fast, modern, and extensible IDE that works across languages and frameworks.
 Whether you're a front-end developer, backend engineer, or full-stack enthusiast — this setup has covered.</p>
+
 <!-- FreeCodeCamp Badge in Nordic Navy Blue -->
 <a href="https://www.freecodecamp.org/news/best-vscode-extensions/" target="_blank">
-  <img src="https://img.shields.io/badge/FreeCodeCamp-VSCode%20Extensions-2E3440?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp - Best VSCode Extensions"></a>
+  <img src="https://img.shields.io/badge/FreeCodeCamp-VSCode%20Extensions-5656BA?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp - Best VSCode Extensions"></a>
   <!-- Microsoft VS Code Marketplace Badge in Nordic White -->
 <a href="https://marketplace.visualstudio.com/vscode" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft-VSCode%20Marketplace-D8DEE9?style=for-the-badge&logo=firefox&logoColor=white" alt="Microsoft VS Code Marketplace"></a>
+  <!-- VS Code Badge in Nordic Blue -->
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Download-0DD7FF?style=for-the-badge&logo=brave&logoColor=white" alt="Download Visual Studio Code"></a>
 <!-- VS Code Color Themes Badge in Nordic Gray -->
 <a href="https://vscodethemes.com/" target="_blank">
   <img src="https://img.shields.io/badge/VSCode-Color%20Themes-4C566A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VSCode Color Themes"></a>
-
+<!-- VS Code JSON Folder Badge -->
+<a href="https://github.com/JoshuaThadi/Integrated-Development-Environment/tree/main/IDE/vscode" target="_blank">
+  <img src="https://img.shields.io/badge/VSCode-JSON%20Config-726CEB?style=for-the-badge&logo=json&logoColor=white" alt="VSCode JSON Config Folder"></a>
 
 
 <h3>🔌 Tools & Extensions in VS Code</h3>
@@ -136,8 +142,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
   
 </div>
 
-
-
+<img width="100%" src="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/vscode/Screenshot%20(6).png" alt="VSCode Icons"></a>
 
 
 ---
@@ -164,7 +169,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 <h1 align="center">🛠 Neovim Professional Setup</h1>
 
-<div align="center" class="badge">
+<div align="left" class="badge">
    <a href="https://soft-saturn-e55.notion.site/Neo-vim-10546efbf3d58032a13fcf1666c42547" target="_blank">
      <img src="https://img.shields.io/badge/Neovim.Inc-Instruction-%237E8185?style=for-the-badge&logo=vim&logoColor=white&labelColor=%237E8185&color=%2300AEEF" alt="GitHub NeoVim.Inc Badge"></a>
   
@@ -185,21 +190,17 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 
 
-<p align="center">This repository contains my Neovim configuration, optimized for performance, modern plugins, and a smooth development experience 🎯</p>
+<p align="left">Neovim is a hyper-extensible, terminal-based text editor built for modern development. This professional setup transforms Neovim into a full-featured, lightweight, and highly performant IDE. This repository contains my Neovim configuration, optimized for performance, modern plugins, and a smooth development experience 🎯.</p>
 
-<h3 align="center">Features 🔥</h3>
-<p align="center">
+<h3 align="left">Features 🔥</h3>
+<p align="left">
   Fast and minimal Neovim setup. Plugin management using Lazy.nvim or Packer.nvim. <br>
   LSP support for multiple programming languages. Autocomplete & snippets with nvim-cmp.<br> 
   Syntax highlighting via Treesitter. File explorer using NvimTree. Statusline with Lualine.<br>
   Git integration via Fugitive or Gitsigns. Telescope for fuzzy finding and search. Key mappings for efficiency.
 </p>
 
-<h3 align="center">License ⚖️</h3>
-<p align="center">This configuration is open-source and free to use. Feel free to modify it to suit your workflow!</p>
-
-
-<p align="center" ><img width="700px" src="https://i.sstatic.net/1EaUT.png" alt="Neovim Setup"></p>
+<p align="center" ><img width="100%" src="https://i.sstatic.net/1EaUT.png" alt="Neovim Setup"></p>
 
 
 
@@ -228,6 +229,10 @@ WebStorm is my go-to IDE when I need:
 - Smart refactoring and code navigation
 - Built-in tools for version control, debugging, and testing
 - A stable and powerful editor with minimal setup overhead
+
+
+<h3 align="center">License ⚖️</h3>
+<p align="center">This configuration is open-source and free to use. Feel free to modify it to suit your workflow!</p>
   
 ---
 
