@@ -200,6 +200,12 @@ With the right icon theme, you not only get visual clarity, but also a more pers
   Git integration via Fugitive or Gitsigns. Telescope for fuzzy finding and search. Key mappings for efficiency.
 </p>
 
+<h3> 🌐 Terminal Integration </h3>
+🔗 toggleterm.nvim - The toggleterm.nvim plugin provides an elegant and flexible way to manage terminal instances within Neovim. <br>
+<a href="https://github.com/akinsho/toggleterm.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/toggleterm.nvim-Terminal%20Toggle-36A8F5?style=for-the-badge&logo=github&logoColor=white" alt="toggleterm.nvim GitHub Repo"></a>
+
+
 <h3 align="left">🚀 Autocompletion & Snippets</h3>
 <p>Boost your development speed with smart autocompletion and flexible snippet support in Vim/Neovim.</p>
 🔗 nvim-cmp – A powerful and extensible completion engine for Neovim written in Lua.<br>
@@ -257,6 +263,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
   <img src="https://img.shields.io/badge/gitsigns.nvim-Git%20Integration-B48EAD?style=for-the-badge&logo=github&logoColor=white" alt="gitsigns.nvim GitHub Repo"></a>
 <a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
   <img src="https://img.shields.io/badge/nvim--treesitter-Syntax%20Parser-A3BE8C?style=for-the-badge&logo=github&logoColor=white" alt="nvim-treesitter GitHub Repo"></a>
+
 
 
 <div>
