@@ -10,6 +10,8 @@ cd ~/.config/nvim && rm -rf .git
 # Launch Neovim to complete setup
 nvim
 
+/*==================================================*/
+#mac/linux
 
 # Remove any existing Neovim configuration
 rm -rf ~/.config/nvim ~/.local/share/nvim ~/.cache/nvim
