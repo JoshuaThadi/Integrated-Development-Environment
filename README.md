@@ -312,6 +312,25 @@ WebStorm is my go-to IDE when I need:
 - Built-in tools for version control, debugging, and testing
 - A stable and powerful editor with minimal setup overhead
 
+<h3>🎨 Color Scheme Context:</h3>
+<p>The color scheme plays a crucial role in defining the overall aesthetic, readability, and comfort of a development environment. This section showcases a curated collection of JetBrains IDE themes that enhance syntax highlighting, contrast, and visual ergonomics.</p>
+
+<div align="left">
+   <a href="https://plugins.jetbrains.com/plugin/10321-nord" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/10321/100456/icon/default.svg" alt="Nord Theme Plugin" width="300"></a>
+<a href="https://plugins.jetbrains.com/plugin/11938-one-dark-theme" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/11938/671042/icon/default.svg" alt="One Dark Theme Plugin" width="300"></a>
+<a href="https://plugins.jetbrains.com/plugin/12163-monocai-color-theme" target="_blank">
+  <img width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT086FMk7v8TgawRnbZ0Tyll7APCNb3iuYeoQ&s" alt="Monocai Color Theme Plugin" width="300"></a>
+<a href="https://plugins.jetbrains.com/plugin/18682-catppuccin-theme" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/18682/680233/icon/default.svg" alt="Catppuccin Theme Plugin" width="300"></a>
+<a href="https://plugins.jetbrains.com/plugin/12275-dracula-theme" target="_blank">
+  <img width="60px" src="https://plugins.jetbrains.com/files/12275/522043/icon/default.svg" alt="Dracula Theme Plugin" width="300"></a>
+
+</div>
+
+
+
 <h3>🧩 Plugin/Extension Recommendations for WebStorm</h3>
 <div align="left">
 1. 🔧 GitToolbox
