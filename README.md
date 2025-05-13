@@ -16,10 +16,10 @@ Whether you're a front-end developer, backend engineer, or full-stack enthusiast
   <img src="https://img.shields.io/badge/FreeCodeCamp-VSCode%20Extensions-2E3440?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp - Best VSCode Extensions"></a>
   <!-- Microsoft VS Code Marketplace Badge in Nordic White -->
 <a href="https://marketplace.visualstudio.com/vscode" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft-VSCode%20Marketplace-D8DEE9?style=for-the-badge&logo=microsoft&logoColor=black" alt="Microsoft VS Code Marketplace"></a>
+  <img src="https://img.shields.io/badge/Microsoft-VSCode%20Marketplace-D8DEE9?style=for-the-badge&logo=firefox&logoColor=white" alt="Microsoft VS Code Marketplace"></a>
 <!-- VS Code Color Themes Badge in Nordic Gray -->
 <a href="https://vscodethemes.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VSCode-Color%20Themes-4C566A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Color Themes"></a>
+  <img src="https://img.shields.io/badge/VSCode-Color%20Themes-4C566A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VSCode Color Themes"></a>
 
 
 
