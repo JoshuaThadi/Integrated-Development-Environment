@@ -3,7 +3,7 @@
 </div>
 
 <div align = "center">
-<img src="https://github.com/JoshuaThadi/Custom-Terminal/blob/main/mwl_transparent.png" alt="Image" width="200px">
+<img src="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/mwl_transparent.png" alt="Image" width="200px">
 </div>
 
 
