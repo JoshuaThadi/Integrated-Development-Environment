@@ -28,6 +28,11 @@ Whether you're a front-end developer, backend engineer, or full-stack enthusiast
 <a href="https://github.com/JoshuaThadi/Integrated-Development-Environment/tree/main/IDE/vscode" target="_blank">
   <img src="https://img.shields.io/badge/VSCode-JSON%20Config-726CEB?style=for-the-badge&logo=json&logoColor=white" alt="VSCode JSON Config Folder"></a>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
 
 <h3>🔌 Tools & Extensions in VS Code</h3>
 VS Code becomes a truly powerful development environment when extended with the right set of tools. These extensions enhance everything from live development and AI-powered coding to linting, formatting, version control, and more.
@@ -79,6 +84,12 @@ Below is a curated list of essential extensions that form the backbone of a prod
 
 </div>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
+
 <h3>🎨 Color Themes in VS Code</h3>
 VS Code offers an incredibly flexible theming system that allows developers to personalize their coding environment for visual comfort, readability, and aesthetic preference.
 In this setup, I've curated a collection of some of the most popular and developer-loved themes, ranging from dark to soft to high-contrast palettes. These themes are not just for looks—they can help reduce eye strain during long coding sessions and make syntax easier to distinguish at a glance.
@@ -119,6 +130,12 @@ In this setup, I've curated a collection of some of the most popular and develop
 
 </div>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
+
 <h3> 📁 File Icon and font Themes in VS Code </h3> 
 File icon themes enhance the VS Code explorer by visually distinguishing between file types, folders, and configurations — making it easier to navigate projects at a glance.
 With the right icon theme, you not only get visual clarity, but also a more personalized and engaging developer experience. The icons can reflect modern design trends, minimalism, or a stylized aesthetic depending on your preference.
@@ -140,6 +157,12 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 
   
+</div>
+
+<div>
+   <p>
+      <h1></h1>
+   </p>
 </div>
 
 <img width="100%" src="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/Screenshot%20(6).png" alt="VSCode Icons"></a>
@@ -200,11 +223,18 @@ With the right icon theme, you not only get visual clarity, but also a more pers
   Git integration via Fugitive or Gitsigns. Telescope for fuzzy finding and search. Key mappings for efficiency.
 </p>
 
+
+
 <h3> 🌐 Terminal Integration </h3>
 🔗 toggleterm.nvim - The toggleterm.nvim plugin provides an elegant and flexible way to manage terminal instances within Neovim. <br>
 <a href="https://github.com/akinsho/toggleterm.nvim" target="_blank">
   <img src="https://img.shields.io/badge/toggleterm.nvim-Terminal%20Toggle-36A8F5?style=for-the-badge&logo=github&logoColor=white" alt="toggleterm.nvim GitHub Repo"></a>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
 
 <h3 align="left">🚀 Autocompletion & Snippets</h3>
 <p>Boost your development speed with smart autocompletion and flexible snippet support in Vim/Neovim.</p>
@@ -219,6 +249,11 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 <a href="https://github.com/L3MON4D3/LuaSnip" target="_blank">
   <img src="https://img.shields.io/badge/nvim-LuaSnip%20-F79B77?style=for-the-badge&logo=github&logoColor=white" alt="LuaSnip GitHub Repo"></a>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
 
 
 <h3 align="left">🔍 Search & Navigation</h3>
@@ -237,12 +272,24 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 <a href="https://github.com/neoclide/coc.nvim" target="_blank">
   <img src="https://img.shields.io/badge/nvim-coc.nvim%20-3791E6?style=for-the-badge&logo=github&logoColor=white" alt="coc.nvim GitHub Repo"></a>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
+
 
 <h3 align="left">🐞 Debugging Tools</h3>
 <p>Turn Neovim into a powerful debugging environment or configure VS Code/WebStorm for integrated debugging.</p>
 🔗 nvim-dap – Debug Adapter Protocol client implementation for Neovim.<br>
 <a href="https://github.com/mfussenegger/nvim-dap" target="_blank">
   <img src="https://img.shields.io/badge/nvim-nvim_dap%20-827675?style=for-the-badge&logo=github&logoColor=white" alt="nvim-dap GitHub Repo"></a>
+
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
 
 
 <h3 align="left">🌟 Recommended Neovim Plugins</h3>
@@ -264,11 +311,9 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 <a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
   <img src="https://img.shields.io/badge/nvim--treesitter-Syntax%20Parser-A3BE8C?style=for-the-badge&logo=github&logoColor=white" alt="nvim-treesitter GitHub Repo"></a>
 
-
-
 <div>
    <p>
-      
+      <h1></h1>
    </p>
 </div>
 
@@ -329,6 +374,11 @@ WebStorm is my go-to IDE when I need:
 
 </div>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
 
 
 <h3>🧩 Plugin/Extension Recommendations for WebStorm</h3>
@@ -359,6 +409,13 @@ Adds syntax highlighting and better handling of .env files — essential for man
 
 </div>
 
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
+
+
 <h3>⚡ Autocompletion & Snippets in WebStorm</h3>
 <div align="left">
 ✅ Built-in IntelliSense
@@ -370,6 +427,12 @@ You can create and manage project-specific or language-specific snippets in Pref
 
 <a href="https://www.jetbrains.com/help/webstorm/using-live-templates.html" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Templates-WebStorm%20Docs-DA627D?style=for-the-badge&logo=jetbrains&logoColor=white" alt="WebStorm Live Templates Documentation"></a>
+
+<div>
+   <p>
+      <h1></h1>
+   </p>
+</div>
 
 <div>
    <a href="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/Screenshot%20(12).png" target="_blank">
