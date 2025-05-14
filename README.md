@@ -142,7 +142,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
   
 </div>
 
-<img width="100%" src="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/vscode/Screenshot%20(6).png" alt="VSCode Icons"></a>
+<img width="100%" src="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/Screenshot%20(6).png" alt="VSCode Icons"></a>
 
 
 ---
@@ -372,8 +372,8 @@ You can create and manage project-specific or language-specific snippets in Pref
   <img src="https://img.shields.io/badge/Live%20Templates-WebStorm%20Docs-DA627D?style=for-the-badge&logo=jetbrains&logoColor=white" alt="WebStorm Live Templates Documentation"></a>
 
 <div>
-   <a href="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/webstorm/Screenshot%20(12).png" target="_blank">
-  <img width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Integrated-Development-Environment/main/IDE/webstorm/Screenshot%20(12).png" alt="WebStorm Setup Screenshot"></a>
+   <a href="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/Screenshot%20(12).png" target="_blank">
+  <img width="100%" src="https://github.com/JoshuaThadi/Integrated-Development-Environment/blob/main/IDE/Screenshot%20(12).png" alt="WebStorm Setup Screenshot"></a>
 </div>
 
 
