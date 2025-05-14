@@ -9,8 +9,8 @@
 
 <h1 align="center">🛠 VS Code Professional Setup</h1>
 
-<p>Welcome to my Visual Studio Code configuration! This setup is crafted for developers who want a fast, modern, and extensible IDE that works across languages and frameworks.
-Whether you're a front-end developer, backend engineer, or full-stack enthusiast — this setup has covered.</p>
+<h4>Welcome to my Visual Studio Code configuration! This setup is crafted for developers who want a fast, modern, and extensible IDE that works across languages and frameworks.
+Whether you're a front-end developer, backend engineer, or full-stack enthusiast — this setup has covered.</h4>
 
 <!-- FreeCodeCamp Badge in Nordic Navy Blue -->
 <a href="https://www.freecodecamp.org/news/best-vscode-extensions/" target="_blank">
@@ -190,7 +190,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 
 
 
-<p align="left">Neovim is a hyper-extensible, terminal-based text editor built for modern development. This professional setup transforms Neovim into a full-featured, lightweight, and highly performant IDE. This repository contains my Neovim configuration, optimized for performance, modern plugins, and a smooth development experience 🎯.</p>
+<h4 align="left">Neovim is a hyper-extensible, terminal-based text editor built for modern development. This professional setup transforms Neovim into a full-featured, lightweight, and highly performant IDE. This repository contains my Neovim configuration, optimized for performance, modern plugins, and a smooth development experience 🎯.</h4>
 
 <h3 align="left">Features 🔥</h3>
 <p align="left">
@@ -301,7 +301,7 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 </div>
 
 
-WebStorm by JetBrains is a powerful IDE tailored for modern JavaScript development. It offers intelligent code completion, on-the-fly error detection, refactoring tools, and seamless integration with version control systems, testing frameworks, build tools, and popular web technologies.
+<h4>WebStorm by JetBrains is a powerful IDE tailored for modern JavaScript development. It offers intelligent code completion, on-the-fly error detection, refactoring tools, and seamless integration with version control systems, testing frameworks, build tools, and popular web technologies.</h4>
 
 <h3> 🚀 Why WebStorm?</h3>
 
