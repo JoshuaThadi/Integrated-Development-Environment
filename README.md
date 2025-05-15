@@ -263,12 +263,13 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 🔗 ripgrep – Ultra-fast tool for searching code.<br>
 🔗 coc.nvim – Vim/Neovim extension for rich LSP and IntelliSense functionality.<br>
 <!-- Telescope.nvim GitHub Badge -->
-<a href="https://github.com/nvim-telescope/telescope.nvim" target="_blank">
-  <img src="https://img.shields.io/badge/nvim-Telescope.nvim-CE85FF?style=for-the-badge&logo=github&logoColor=white" alt="Telescope.nvim GitHub"></a>
+
 <a href="https://github.com/junegunn/fzf" target="_blank">
   <img src="https://img.shields.io/badge/nvim-fzf_Fuzzy%20-81A1C1?style=for-the-badge&logo=github&logoColor=white" alt="fzf GitHub Repo"></a>
 <a href="https://github.com/BurntSushi/ripgrep" target="_blank">
   <img src="https://img.shields.io/badge/nvim-ripgrep%20-B57BE0?style=for-the-badge&logo=github&logoColor=white" alt="ripgrep GitHub Repo"></a>
+<a href="https://github.com/nvim-telescope/telescope.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/nvim-Telescope.nvim-CE85FF?style=for-the-badge&logo=github&logoColor=white" alt="Telescope.nvim GitHub"></a>
 <a href="https://github.com/neoclide/coc.nvim" target="_blank">
   <img src="https://img.shields.io/badge/nvim-coc.nvim%20-3791E6?style=for-the-badge&logo=github&logoColor=white" alt="coc.nvim GitHub Repo"></a>
 
@@ -300,16 +301,17 @@ With the right icon theme, you not only get visual clarity, but also a more pers
 🔗 gitsigns.nvim – Git integration.<br>
 🔗 nvim-treesitter – Syntax highlighting and code parsing.<br>
 
-<a href="https://github.com/nvim-tree/nvim-tree.lua" target="_blank">
-  <img src="https://img.shields.io/badge/nvim--tree.lua-File%20Explorer-8FBC8F?style=for-the-badge&logo=github&logoColor=white" alt="nvim-tree.lua GitHub Repo"></a>
-<a href="https://github.com/nvim-lualine/lualine.nvim" target="_blank">
-  <img src="https://img.shields.io/badge/lualine.nvim-Statusline-88C0D0?style=for-the-badge&logo=github&logoColor=white" alt="lualine.nvim GitHub Repo"></a>
-<a href="https://github.com/akinsho/bufferline.nvim" target="_blank">
-  <img src="https://img.shields.io/badge/bufferline.nvim-Buffer%20Tabs-5E81AC?style=for-the-badge&logo=github&logoColor=white" alt="bufferline.nvim GitHub Repo"></a>
 <a href="https://github.com/lewis6991/gitsigns.nvim" target="_blank">
   <img src="https://img.shields.io/badge/gitsigns.nvim-Git%20Integration-B48EAD?style=for-the-badge&logo=github&logoColor=white" alt="gitsigns.nvim GitHub Repo"></a>
 <a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
   <img src="https://img.shields.io/badge/nvim--treesitter-Syntax%20Parser-A3BE8C?style=for-the-badge&logo=github&logoColor=white" alt="nvim-treesitter GitHub Repo"></a>
+<a href="https://github.com/akinsho/bufferline.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/bufferline.nvim-Buffer%20Tabs-5E81AC?style=for-the-badge&logo=github&logoColor=white" alt="bufferline.nvim GitHub Repo"></a>
+<a href="https://github.com/nvim-tree/nvim-tree.lua" target="_blank">
+  <img src="https://img.shields.io/badge/nvim--tree.lua-File%20Explorer-8FBC8F?style=for-the-badge&logo=github&logoColor=white" alt="nvim-tree.lua GitHub Repo"></a>
+<a href="https://github.com/nvim-lualine/lualine.nvim" target="_blank">
+  <img src="https://img.shields.io/badge/lualine.nvim-Statusline-88C0D0?style=for-the-badge&logo=github&logoColor=white" alt="lualine.nvim GitHub Repo"></a>
+
 
 <div>
    <p>
