@@ -4,7 +4,7 @@ Welcome to my **WebStorm setup**, tailored for high-performance JavaScript/TypeS
 
 ---
 
-## 🚀 Why WebStorm?
+## 🚀 Why WebStorm!
 
 WebStorm is my go-to IDE when I need:
 
@@ -19,10 +19,10 @@ WebStorm is my go-to IDE when I need:
 
 /webstorm
 ├── settings/
-│ ├── keymaps/ # Custom keymaps
-│ ├── codestyles/ # Code formatting rules
-│ ├── inspections/ # Inspection profiles
-│ └── ui_themes/ # Optional UI themes
+├── keymaps/ # Custom keymaps
+├── codestyles/ # Code formatting rules
+├── inspections/ # Inspection profiles
+└── ui_themes/ # Optional UI themes
 ├── README.md
 
 markdown
