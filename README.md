@@ -57,7 +57,7 @@ Below is a curated list of essential extensions that form the backbone of a prod
 
   <!-- Prettier - Code Formatter -->
 <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank">
-  <img width="60px" src="https://static-00.iconduck.com/assets.00/prettier-icon-2048x2048-iwplwd18.png" alt="Prettier Extension"></a>
+  <img width="60px" src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/11.0.0/1723648421534/Microsoft.VisualStudio.Services.Icons.Default" alt="Prettier Extension"></a>
 <!-- Remote - SSH -->
 <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh" target="_blank">
   <img width="60px" src="https://ms-vscode-remote.gallerycdn.vsassets.io/extensions/ms-vscode-remote/remote-ssh/0.121.2025050915/1746803838543/Microsoft.VisualStudio.Services.Icons.Default" alt="Remote - SSH Extension"></a>
